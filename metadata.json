@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Library",
+  "description": "A sophisticated digital library management application built with React, Redux, and Tailwind CSS. Browse a vast collection of books, filter by category, search by title or author, and manage your personal library with ease.",
+  "requestFramePermissions": []
+}
